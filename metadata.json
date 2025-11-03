@@ -1,0 +1,5 @@
+{
+  "name": "AI Creative Studio",
+  "description": "A versatile web application for creative content generation using Gemini AI. Features include Text-to-Image, Image-to-Image editing, Image-to-Video creation, and image upscaling, all within a sleek, user-friendly interface.",
+  "requestFramePermissions": []
+}
